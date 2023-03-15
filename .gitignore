@@ -1,0 +1,15 @@
+# Exclude all executables
+*.exe
+*.out
+*.so
+*.dll
+
+# Exclude all object files
+*.o
+
+# Exclude all HTML files
+*.html
+
+# Exclude all Markdown files
+*.md
+
